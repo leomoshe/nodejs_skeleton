@@ -10,7 +10,6 @@
 .venv*
 /*/node_modules
 /.idea/
-/.vscode
 /app.pid
 # Optional eslint cache
 */.eslintcache
