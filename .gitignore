@@ -1,0 +1,18 @@
+*.log
+*.log.*
+*.pyc
+*.swp
+*.iml
+*.bak
+*.orig
+.DS_Store
+._.DS_Store
+.venv*
+/*/node_modules
+/.idea/
+/.vscode
+/app.pid
+# Optional eslint cache
+*/.eslintcache
+
+ctap_config/cue/
